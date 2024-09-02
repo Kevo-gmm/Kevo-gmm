@@ -5,7 +5,7 @@ I'm a full stack developer with experience in building web and mobile applicatio
 - Proficiency in languages such as JavaScript and TypeScript
 - Experience with front-end framework such as React Native
 - Experience with back-end frameworks such as Express and Socket.io
-- Experience with databases such as MySQL, MongoDB, and SQLite
+- Experience with databases such as postgres MongoDB and SQLite
 - Proficiency in version control using Git
 - Strong problem-solving and debugging skills
 
