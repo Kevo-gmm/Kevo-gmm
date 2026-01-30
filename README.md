@@ -1,20 +1,22 @@
-Hi👋, 
+Hi there, I'm Kelvin! 👋
+I’m a Full-Stack Developer passionate about crafting intuitive web and mobile experiences. I specialize in bridging the gap between complex back-end logic and seamless front-end design.
 
-I'm a full stack developer with experience in building web and mobile applications using a variety of technologies. My skillset includes:
+🛠 My Tech Stack
+Languages: JavaScript (ES6+), TypeScript
 
-- Proficiency in languages such as JavaScript and TypeScript
-- Experience with front-end framework such as React Native
-- Experience with back-end frameworks such as Express and Socket.io
-- Experience with databases such as postgres MongoDB and SQLite
-- Proficiency in version control using Git
-- Strong problem-solving and debugging skills
+Mobile/Frontend: React Native, React
 
-I am always learning new technologies and frameworks to stay up-to-date with the latest trends in software development. I am passionate about building intuitive and well-designed applications that provide a seamless user experience.
+Backend/Real-time: Express.js, Socket.io
 
-I am comfortable working independently or as part of a team, and I am always open to new challenges and opportunities to learn and grow as a developer.
+Databases: PostgreSQL, MongoDB, SQLite
 
-You can find some of my recent projects on my GitHub profile. 
- 
-Send me an Email for an inquiries: mburukelvingitau@gmail.com
+Tools: Git, Docker, REST APIs
 
-Thank you for visiting!
+🚀 What I’m up to
+🔍 Solving: Complex debugging challenges and performance bottlenecks.
+
+🏗 Building: Scalable applications with a focus on clean architecture.
+
+📚 Learning: Staying current with the latest frameworks and software trends.
+
+I’m a collaborative developer who thrives in team environments and loves a good challenge. Thanks for stopping by my corner of GitHub!
